@@ -16,4 +16,4 @@ Ideally, we want to be able to click on the lights and only have that specific l
 
 Currently, three tests fail. These tests check to see that the click event on the light fixture isn't fired when you click on an individual light. You'll want to make sure to pass all the tests.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-stop-propogation-lab' title='Stop Propagation Lab'>Stop Propagation Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Stop Propagation Lab</p>
